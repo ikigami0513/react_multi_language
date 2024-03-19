@@ -1,0 +1,13 @@
+.container {
+    text-align: left;
+    float: left;
+    width: 90%;
+}
+
+.container .title {
+    font-size: 4rem;
+}
+
+.container .content {
+    font-size: 1.5rem;
+}

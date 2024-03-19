@@ -1,0 +1,10 @@
+.flags {
+    text-align: left;
+    float: left;
+    width: 10%;
+}
+
+.flags img {
+    width: 50px;
+    margin: 5px;
+}
